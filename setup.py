@@ -86,6 +86,7 @@ setup(
     entry_points={
         'bibo.plugins': [
             'todo=bibo_todo:todo',
+            'todo_list=bibo_todo:todo_list',
         ],
     },
 )

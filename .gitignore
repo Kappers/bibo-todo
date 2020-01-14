@@ -1,2 +1,4 @@
 __pycache__
-bibo_mark_read.egg-info/
+bibo_todo.egg-info/
+build/
+dist/
