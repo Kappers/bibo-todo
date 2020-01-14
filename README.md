@@ -1,2 +1,2 @@
-# bibo-mark-todo
-Plugin for bibo, mark entry as todo with optional note.
+# bibo-todo
+Plugin for bibo, mark entry with optional todo notes.
